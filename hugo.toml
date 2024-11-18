@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://zblogs.us.kg/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'ZBlogs Site'
 theme = "ananke"
