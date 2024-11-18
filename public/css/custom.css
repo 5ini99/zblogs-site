@@ -25,6 +25,7 @@ header .bg-black h1{
 }
 header .bg-black h1::before{
     content: "Hello";
+    margin-right: 10px;
 }
 
 main{
@@ -51,4 +52,7 @@ article > div > p {
 }
 article > div p > img{
     margin-top: 15px;
+}
+article .list.di{
+    margin-right: 10px;
 }
