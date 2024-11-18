@@ -1,7 +1,7 @@
 +++
 date = '2024-11-18T16:01:51+08:00'
 draft = false
-title = 'Nx30pro Flashing Guide'
+title = '华三Nx30pro刷机指南'
 featured_image = "/images/thumbnails/nx30pro-1.jpg"
 summary = "华三H3C NX30Pro这台路由器刷机是非常简单的，Arm A53 双核 1.3Ghz，256M 的内存，也都是内置功放 Wi-Fi 信号没差，而且刷机也很方便，只需要学会几个常用软件和命令的使用即可，不用掌握什么复杂的技术。"
 tags = ["NX30Pro", "MT7981", "MT7981B"]
@@ -51,6 +51,7 @@ windows 可以使用 winscp，或 filezilla 等软件scp连接将backup.img下�
 > scp -O -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedKeyTypes=+ssh-rsa ~/Downloads/uboot.bin H3C@192.168.124.1:/tmp/
 
 ![nx30pro-5.png](/images/thumbnails/nx30pro-5.png)
+
 ![nx30pro-6.png](/images/thumbnails/nx30pro-6.png)
 
 确保uboot文件已放入服务器该文件夹下，然后执行以下命令，如图所示完成了写入 uboot。（请确保MD5 校验结果和图中相同，再敲回车执行，否则会变砖）
