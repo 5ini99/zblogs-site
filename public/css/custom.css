@@ -53,6 +53,6 @@ article > div > p {
 article > div p > img{
     margin-top: 15px;
 }
-article .list.di{
+article li.list{
     margin-right: 10px;
 }
