@@ -4,6 +4,7 @@ draft = false
 title = '思创CT3003刷机指南'
 featured_image = "/images/thumbnails/ct3003-1.jpg"
 summary = "Cetorn 3003 路由器采用 MT7981 高性能芯片，支持 2.4GHz 和 5GHz 双频 Wi-Fi，配备千兆网口和多天线设计，提供稳定高速网络，适合家庭及小型办公使用。"
+tags = ["CT3003", "MT7981", "MT7981B"]
 +++
 
 ## 拆机
@@ -24,7 +25,7 @@ summary = "Cetorn 3003 路由器采用 MT7981 高性能芯片，支持 2.4GHz �
 1. 拆机后找到下图红框内的UART串口。线序由上到下为RXD，TXD，GND，波特率115200
 ![360T7-4.png](/images/thumbnails/360T7-4.jpg)
 
-2. 打开串口助手，上电，等待机器启动后，不断按下 f和回车键 ，直到出现下面的提示后，即可进入failsafe模式(如果不显示如下的代码，没有f选项的情况下登录到路由器固件升级界面，升级`360T7-v4.2.4.7959_upgrade.bin`固件以后再次启动即可提示f模式)
+2. 打开串口助手，上电，等待机器启动后，不断按下 f和回车键 ，直到出现下面的提示后，即可进入failsafe模式
 
 ```
 [   10.205973] wed_get_slot_map(): assign slot_id:0 for entry: 0!

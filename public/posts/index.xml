@@ -6,8 +6,15 @@
     <description>Recent content in Posts on ZBlogs</description>
     <generator>Hugo</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 18 Nov 2024 09:55:53 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 11:55:53 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>思创CT3003刷机指南</title>
+      <link>http://localhost:1313/posts/ct3003-flashing-guide/</link>
+      <pubDate>Mon, 18 Nov 2024 11:55:53 +0800</pubDate>
+      <guid>http://localhost:1313/posts/ct3003-flashing-guide/</guid>
+      <description>Cetorn 3003 路由器采用 MT7981 高性能芯片，支持 2.4GHz 和 5GHz 双频 Wi-Fi，配备千兆网口和多天线设计，提供稳定高速网络，适合家庭及小型办公使用。</description>
+    </item>
     <item>
       <title>360T7刷机指南</title>
       <link>http://localhost:1313/posts/360t7-flashing-guide/</link>

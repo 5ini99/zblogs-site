@@ -7,3 +7,7 @@ defaultContentLanguage = 'zh'  # 设置默认语言为中文
 [params]
   custom_css = ["css/custom.css"]
   site_logo = '/images/logo.png'
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
