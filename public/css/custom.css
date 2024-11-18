@@ -26,3 +26,29 @@ header .bg-black h1{
 header .bg-black h1::before{
     content: "Hello";
 }
+
+main{
+    padding-bottom: 0!important;
+}
+article {
+    background-color: #fff;
+}
+article h2{
+    margin-inline-start: calc(2rem* -1);
+    padding-inline-start: calc(2rem - 4px);
+    border-inline-start: 4px solid #555;
+}
+article h2::before{
+    content: '';
+    display: inline-block;
+}
+article.ph3{
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+article > div > p {
+    text-indent: 40px;
+}
+article > div p > img{
+    margin-top: 15px;
+}
