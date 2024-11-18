@@ -6,10 +6,17 @@
     <description>Recent content on ZBlogs</description>
     <generator>Hugo</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 18 Nov 2024 16:01:51 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 17:09:18 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Nx30pro Flashing Guide</title>
+      <title>Jcg Q30/MR3000D-CIQ(512M)刷机指南</title>
+      <link>http://localhost:1313/posts/jcg-q30-flashing-guide/</link>
+      <pubDate>Mon, 18 Nov 2024 17:09:18 +0800</pubDate>
+      <guid>http://localhost:1313/posts/jcg-q30-flashing-guide/</guid>
+      <description>JCG Q30 Pro/MR3000D-CIQ(512M) 是一款采用了联发科技 Filogic 820 / MT7981 SoC 的 AX3000 WiFi 6 无线路由器，目前售价相对亲民，性价比较高。</description>
+    </item>
+    <item>
+      <title>华三Nx30pro刷机指南</title>
       <link>http://localhost:1313/posts/nx30pro-flashing-guide/</link>
       <pubDate>Mon, 18 Nov 2024 16:01:51 +0800</pubDate>
       <guid>http://localhost:1313/posts/nx30pro-flashing-guide/</guid>

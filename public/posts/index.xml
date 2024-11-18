@@ -6,8 +6,22 @@
     <description>Recent content in Posts on ZBlogs</description>
     <generator>Hugo</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 18 Nov 2024 11:55:53 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 17:09:18 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jcg Q30/MR3000D-CIQ(512M)刷机指南</title>
+      <link>http://localhost:1313/posts/jcg-q30-flashing-guide/</link>
+      <pubDate>Mon, 18 Nov 2024 17:09:18 +0800</pubDate>
+      <guid>http://localhost:1313/posts/jcg-q30-flashing-guide/</guid>
+      <description>JCG Q30 Pro/MR3000D-CIQ(512M) 是一款采用了联发科技 Filogic 820 / MT7981 SoC 的 AX3000 WiFi 6 无线路由器，目前售价相对亲民，性价比较高。</description>
+    </item>
+    <item>
+      <title>华三Nx30pro刷机指南</title>
+      <link>http://localhost:1313/posts/nx30pro-flashing-guide/</link>
+      <pubDate>Mon, 18 Nov 2024 16:01:51 +0800</pubDate>
+      <guid>http://localhost:1313/posts/nx30pro-flashing-guide/</guid>
+      <description>华三H3C NX30Pro这台路由器刷机是非常简单的，Arm A53 双核 1.3Ghz，256M 的内存，也都是内置功放 Wi-Fi 信号没差，而且刷机也很方便，只需要学会几个常用软件和命令的使用即可，不用掌握什么复杂的技术。</description>
+    </item>
     <item>
       <title>思创CT3003刷机指南</title>
       <link>http://localhost:1313/posts/ct3003-flashing-guide/</link>
