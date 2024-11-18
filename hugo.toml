@@ -1,4 +1,9 @@
 baseURL = 'https://zblogs.us.kg/'
-languageCode = 'en-us'
-title = 'ZBlogs Site'
+languageCode = 'zh'       # 设置为中文
+title = 'ZBlogs'
 theme = "ananke"
+defaultContentLanguage = 'zh'  # 设置默认语言为中文
+
+[params]
+  custom_css = ["css/custom.css"]
+  site_logo = '/images/logo.png'
