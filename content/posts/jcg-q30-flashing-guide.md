@@ -1,6 +1,6 @@
 +++
 date = '2024-11-18T17:09:18+08:00'
-draft = true
+draft = false
 title = 'Jcg Q30/MR3000D-CIQ(512M)刷机指南'
 featured_image = "/images/thumbnails/jcg-q30-1.jpg"
 summary = "JCG Q30 Pro/MR3000D-CIQ(512M) 是一款采用了联发科技 Filogic 820 / MT7981 SoC 的 AX3000 WiFi 6 无线路由器，目前售价相对亲民，性价比较高。"
