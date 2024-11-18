@@ -30,6 +30,7 @@ header .bg-black h1::before{
 main{
     padding-bottom: 0!important;
 }
+main > article + div,
 article {
     background-color: #fff;
 }
