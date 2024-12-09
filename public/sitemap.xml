@@ -2,36 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/ct3003/</loc>
+    <loc>//localhost:1313/posts/jcg-q30-flashing-guide/</loc>
+    <lastmod>2024-11-18T17:09:18+08:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/jcg-q30/</loc>
+    <lastmod>2024-11-18T17:09:18+08:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/mr3000d-ciq/</loc>
+    <lastmod>2024-11-18T17:09:18+08:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/mt7981/</loc>
+    <lastmod>2024-11-18T17:09:18+08:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/mt7981b/</loc>
+    <lastmod>2024-11-18T17:09:18+08:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/</loc>
+    <lastmod>2024-11-18T17:09:18+08:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+    <lastmod>2024-11-18T17:09:18+08:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/</loc>
+    <lastmod>2024-11-18T17:09:18+08:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/nx30pro/</loc>
+    <lastmod>2024-11-18T16:01:51+08:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/posts/nx30pro-flashing-guide/</loc>
+    <lastmod>2024-11-18T16:01:51+08:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/ct3003/</loc>
     <lastmod>2024-11-18T11:55:53+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mt7981/</loc>
+    <loc>//localhost:1313/posts/ct3003-flashing-guide/</loc>
     <lastmod>2024-11-18T11:55:53+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mt7981b/</loc>
-    <lastmod>2024-11-18T11:55:53+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-11-18T11:55:53+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-11-18T11:55:53+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-11-18T11:55:53+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/ct3003-flashing-guide/</loc>
-    <lastmod>2024-11-18T11:55:53+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/360t7/</loc>
+    <loc>//localhost:1313/tags/360t7/</loc>
     <lastmod>2024-11-18T09:55:53+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/360t7-flashing-guide/</loc>
+    <loc>//localhost:1313/posts/360t7-flashing-guide/</loc>
     <lastmod>2024-11-18T09:55:53+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/mtk/</loc>
+    <loc>//localhost:1313/tags/mtk/</loc>
     <lastmod>2024-11-18T09:55:53+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
   </url>
 </urlset>

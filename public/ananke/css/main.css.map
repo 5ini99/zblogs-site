@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/byron/Works/zblogs-site",
+	"sourceRoot": "/Users/byron/Works/my/zblogs-site",
 	"sources": [
 		"ananke/css/main.css"
 	],

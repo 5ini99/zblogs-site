@@ -1,4 +1,4 @@
-baseURL = 'https://zblogs.us.kg/'
+baseURL = '/'
 languageCode = 'zh'       # 设置为中文
 title = 'ZBlogs'
 theme = "ananke"
