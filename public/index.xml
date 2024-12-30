@@ -6,8 +6,15 @@
     <description>Recent content on ZBlogs</description>
     <generator>Hugo</generator>
     <language>zh</language>
-    <lastBuildDate>Mon, 18 Nov 2024 17:09:18 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2024 11:17:53 +0800</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rax3000m Emmc Flashing Guide</title>
+      <link>//localhost:1313/posts/rax3000m-emmc-flashing-guide/</link>
+      <pubDate>Tue, 17 Dec 2024 11:17:53 +0800</pubDate>
+      <guid>//localhost:1313/posts/rax3000m-emmc-flashing-guide/</guid>
+      <description>CMCC RAX3000M算力版是中国移动定制的一款路由器EMMC版本，64GB的emmc。</description>
+    </item>
     <item>
       <title>Jcg Q30/MR3000D-CIQ(512M)刷机指南</title>
       <link>//localhost:1313/posts/jcg-q30-flashing-guide/</link>
